@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- eric project file for project server -->
+<!-- Saved: 2018-05-31, 23:19:28 -->
+<!-- Copyright (C) 2018 ,  -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>1f41112b15051becbc79553ebba38d363ee69190</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>PyQt5</ProjectType>
+  <Version>0.1</Version>
+  <Author></Author>
+  <Email></Email>
+  <Eol index="0"/>
+  <Sources>
+    <Source>DataGrid.py</Source>
+    <Source>DataGrid2.py</Source>
+    <Source>DataGrid3.py</Source>
+    <Source>DeleteAdminByNum.py</Source>
+    <Source>LoginMain.py</Source>
+    <Source>QMain.py</Source>
+    <Source>SplashMain.py</Source>
+    <Source>Ui_AddAdmin.py</Source>
+    <Source>Ui_QMain.py</Source>
+    <Source>Ui_admin_1.py</Source>
+    <Source>Ui_admin_2.py</Source>
+    <Source>Ui_changeAdmin.py</Source>
+    <Source>Ui_changeAdminByName.py</Source>
+    <Source>Ui_changeAdminBySelf.py</Source>
+    <Source>Ui_deleteAdminByName.py</Source>
+    <Source>Ui_deleteAdminByNum.py</Source>
+    <Source>Ui_loginView.py</Source>
+    <Source>Ui_splashView.py</Source>
+    <Source>__init__.py</Source>
+    <Source>addadmin.py</Source>
+    <Source>admin_1.py</Source>
+    <Source>admin_2.py</Source>
+    <Source>bike/DataGrid.py</Source>
+    <Source>bike/DataGridBike.py</Source>
+    <Source>bike/DeleteAdminByNum.py</Source>
+    <Source>bike/Ui_AddBike.py</Source>
+    <Source>bike/Ui_bike.py</Source>
+    <Source>bike/Ui_changeAdmin.py</Source>
+    <Source>bike/Ui_deleteAdminByNum.py</Source>
+    <Source>bike/addBike.py</Source>
+    <Source>bike/bike.py</Source>
+    <Source>bike/chaneAdminByNum.py</Source>
+    <Source>chaneAdminByNum.py</Source>
+    <Source>changeAdminByName.py</Source>
+    <Source>changeAdminBySelf.py</Source>
+    <Source>deleteAdminByName.py</Source>
+    <Source>relations/DataGrid.py</Source>
+    <Source>relations/DataGrid3.py</Source>
+    <Source>relations/DeleteAdminByNum.py</Source>
+    <Source>relations/Ui_AddAdmin.py</Source>
+    <Source>relations/Ui_admin_1.py</Source>
+    <Source>relations/Ui_changeAdmin.py</Source>
+    <Source>relations/Ui_deleteAdminByNum.py</Source>
+    <Source>relations/__init__.py</Source>
+    <Source>relations/addadmin.py</Source>
+    <Source>relations/admin_1.py</Source>
+    <Source>relations/chaneAdminByNum.py</Source>
+    <Source>user/DataGrid.py</Source>
+    <Source>user/DataGrid2.py</Source>
+    <Source>user/DataGrid3.py</Source>
+    <Source>user/DeleteAdminByNum.py</Source>
+    <Source>user/Ui_AddAdmin.py</Source>
+    <Source>user/Ui_admin_1.py</Source>
+    <Source>user/Ui_admin_2.py</Source>
+    <Source>user/Ui_changeAdmin.py</Source>
+    <Source>user/Ui_changeAdminByName.py</Source>
+    <Source>user/Ui_deleteAdminByName.py</Source>
+    <Source>user/Ui_deleteAdminByNum.py</Source>
+    <Source>user/addadmin.py</Source>
+    <Source>user/admin_1.py</Source>
+    <Source>user/admin_2.py</Source>
+    <Source>user/chaneAdminByNum.py</Source>
+    <Source>user/changeAdminByName.py</Source>
+    <Source>user/deleteAdminByName.py</Source>
+  </Sources>
+  <Forms>
+    <Form>AddAdmin.ui</Form>
+    <Form>QMain.ui</Form>
+    <Form>admin_1.ui</Form>
+    <Form>admin_2.ui</Form>
+    <Form>bike/AddBike.ui</Form>
+    <Form>bike/bike.ui</Form>
+    <Form>bike/changeAdmin.ui</Form>
+    <Form>bike/deleteAdminByNum.ui</Form>
+    <Form>changeAdmin.ui</Form>
+    <Form>changeAdminByName.ui</Form>
+    <Form>changeAdminBySelf.ui</Form>
+    <Form>deleteAdminByName.ui</Form>
+    <Form>deleteAdminByNum.ui</Form>
+    <Form>loginView.ui</Form>
+    <Form>relations/AddAdmin.ui</Form>
+    <Form>relations/admin_1.ui</Form>
+    <Form>relations/changeAdmin.ui</Form>
+    <Form>relations/deleteAdminByNum.ui</Form>
+    <Form>splashView.ui</Form>
+    <Form>user/AddAdmin.ui</Form>
+    <Form>user/admin_1.ui</Form>
+    <Form>user/admin_2.ui</Form>
+    <Form>user/changeAdmin.ui</Form>
+    <Form>user/changeAdminByName.ui</Form>
+    <Form>user/deleteAdminByName.ui</Form>
+    <Form>user/deleteAdminByNum.ui</Form>
+  </Forms>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others/>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.e4p" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.md" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.rst" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.txt" type="OTHERS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+    <FiletypeAssociation pattern="README" type="OTHERS"/>
+    <FiletypeAssociation pattern="README.*" type="OTHERS"/>
+  </FiletypeAssociations>
+</Project>
